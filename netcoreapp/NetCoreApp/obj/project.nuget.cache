@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "BJgUWLPrR4644+ehln3Pt5E6Y69VEqv47p5ktJ1iFAdicDLb01fYVr7oqq3CQ2Aprh2j0Qg1gsup7H8tbI2iQA==",
+  "dgSpecHash": "aYHspq1UMRXfpMEMXyKEIkNdoKKilUlmONlLn153PLpNUOoZmLMlZptEPiWfRV37lh8trWON2eEjymyMPZwUCg==",
   "success": true,
   "projectFilePath": "D:\\gitprojects\\netcoreapp\\NetCoreApp\\NetCoreApp.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\JunHao\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
   "logs": []
 }

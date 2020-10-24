@@ -1,20 +1,20 @@
 ﻿NetCoreApp
-
+1.0.0.0
 
 winexe
 C#
 .cs
-D:\gitprojects\netcoreapp\NetCoreApp\obj\Debug\net5.0-windows\
+d:\gitprojects\netcoreapp\NetCoreApp\obj\Debug\net5.0-windows\
 NetCoreApp
 none
 false
 TRACE;DEBUG;NET;NET5_0;NETCOREAPP
-D:\gitprojects\netcoreapp\NetCoreApp\App.xaml
-12025661698
+d:\gitprojects\netcoreapp\NetCoreApp\App.xaml
+1219584333
 
-3-635643991
-1931636879860
+5267457753
+193-149410609
 MainWindow.xaml;
 
-False
+True
 
