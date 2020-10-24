@@ -27,8 +27,8 @@ namespace NetCoreApp
 
         private void Loaded(object sender, System.Windows.RoutedEventArgs e)
         {
-
-
+            Console.WriteLine("测试git 修改tracked文件");
+            
         }
 
     }
