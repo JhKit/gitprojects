@@ -8,23 +8,28 @@
     "net5.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\JunHao\\.nuget\\packages\\": {}
+    "C:\\Users\\JunHao\\.nuget\\packages\\": {},
+    "E:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\netcoreprojects\\netcoreapp\\NetCoreApp\\NetCoreApp.csproj",
+      "projectUniqueName": "D:\\gitprojects\\netcoreapp\\NetCoreApp\\NetCoreApp.csproj",
       "projectName": "NetCoreApp",
-      "projectPath": "D:\\netcoreprojects\\netcoreapp\\NetCoreApp\\NetCoreApp.csproj",
+      "projectPath": "D:\\gitprojects\\netcoreapp\\NetCoreApp\\NetCoreApp.csproj",
       "packagesPath": "C:\\Users\\JunHao\\.nuget\\packages\\",
-      "outputPath": "D:\\netcoreprojects\\netcoreapp\\NetCoreApp\\obj\\",
+      "outputPath": "D:\\gitprojects\\netcoreapp\\NetCoreApp\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "E:\\Microsoft\\Xamarin\\NuGet\\"
+      ],
       "configFilePaths": [
         "C:\\Users\\JunHao\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
-        "net5.0-windows7.0"
+        "net5.0-windows"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
@@ -63,7 +68,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100-preview.8.20417.9\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100-rc.2.20479.15\\RuntimeIdentifierGraph.json"
       }
     }
   }

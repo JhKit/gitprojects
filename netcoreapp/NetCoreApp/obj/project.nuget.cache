@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "iRA08z8v43o5Z2fkfi/vUzRN+J/vJIdiYGat5KzBp75Z3Ajkc8RARwjmGC+oh3bwgPJ6ilwqxJvB5aBnTsDbkw==",
+  "dgSpecHash": "BJgUWLPrR4644+ehln3Pt5E6Y69VEqv47p5ktJ1iFAdicDLb01fYVr7oqq3CQ2Aprh2j0Qg1gsup7H8tbI2iQA==",
   "success": true,
-  "projectFilePath": "D:\\netcoreprojects\\netcoreapp\\NetCoreApp\\NetCoreApp.csproj",
+  "projectFilePath": "D:\\gitprojects\\netcoreapp\\NetCoreApp\\NetCoreApp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

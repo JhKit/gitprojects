@@ -13,49 +13,7 @@
            "args": [],
            "cwd": "${workspaceFolder}",
            "stopAtEntry": false,
-           "console": "internalConsole",
-           "pipeTransport": {
-               "pipeCwd": "${workspaceFolder}",
-               "pipeProgram": "enter the fully qualified path for the pipe program name, for example '/usr/bin/ssh'",
-               "pipeArgs": [],
-               "debuggerPath": "enter the path for the debugger on the target machine, for example ~/vsdbg/vsdbg"
-           }
-       },
-       {
-           "name": ".NET Core Launch (console)",
-           "type": "coreclr",
-           "request": "launch",
-           "preLaunchTask": "build",
-           "program": "${workspaceFolder}/bin/Debug/<target-framework>/<project-name.dll>",
-           "args": [],
-           "cwd": "${workspaceFolder}",
-           "stopAtEntry": false,
            "console": "internalConsole"
-       },
-       {
-           "name": ".NET Core Attach",
-           "type": "coreclr",
-           "request": "attach",
-           "processId": "${command:pickProcess}"
-       },
-        {
-            "name": ".NET Core Launch (console)",
-            "type": "coreclr",
-            "request": "launch",
-            "preLaunchTask": "build",
-            // If you have changed target frameworks, make sure to update the program path.
-            "program": "${workspaceFolder}/NetCoreApp/bin/Debug/net5.0/NetCoreApp.dll",
-            "args": [],
-            "cwd": "${workspaceFolder}/NetCoreApp",
-            // For more information about the 'console' field, see https://aka.ms/VSCode-CS-LaunchJson-Console
-            "console": "internalConsole",
-            "stopAtEntry": false
-        },
-        {
-            "name": ".NET Core Attach",
-            "type": "coreclr",
-            "request": "attach",
-            "processId": "${command:pickProcess}"
-        }
+       }
     ]
 }
