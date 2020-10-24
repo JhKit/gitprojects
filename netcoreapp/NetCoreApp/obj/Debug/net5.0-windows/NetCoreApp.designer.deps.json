@@ -1,0 +1,11 @@
+{
+  "runtimeTarget": {
+    "name": "net5.0-windows7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    "net5.0-windows7.0": {}
+  },
+  "libraries": {}
+}

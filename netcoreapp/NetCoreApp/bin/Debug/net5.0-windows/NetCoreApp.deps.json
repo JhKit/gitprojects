@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": "net5.0-windows7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    "net5.0-windows7.0": {
+      "NetCoreApp/1.0.0": {
+        "runtime": {
+          "NetCoreApp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NetCoreApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "runtimeOptions": {
+    "tfm": "net5.0-windows",
+    "framework": {
+      "name": "Microsoft.WindowsDesktop.App",
+      "version": "5.0.0-preview.8.20411.6"
+    },
+    "additionalProbingPaths": [
+      "C:\\Users\\JunHao\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\JunHao\\.nuget\\packages"
+    ],
+    "configProperties": {
+      "Microsoft.NETCore.DotNetHostPolicy.SetAppPaths": true
+    }
+  }
+}
