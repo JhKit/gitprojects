@@ -24,5 +24,12 @@ namespace NetCoreApp
         {
             InitializeComponent();
         }
+
+        private void Loaded(object sender, System.Windows.RoutedEventArgs e)
+        {
+
+
+        }
+
     }
 }
