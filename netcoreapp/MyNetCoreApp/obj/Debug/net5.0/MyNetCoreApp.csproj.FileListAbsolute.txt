@@ -1,0 +1,5 @@
+D:\gitprojects\netcoreapp\MyNetCoreApp\obj\Debug\net5.0\MyNetCoreApp.csprojAssemblyReference.cache
+D:\gitprojects\netcoreapp\MyNetCoreApp\obj\Debug\net5.0\MyNetCoreApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\gitprojects\netcoreapp\MyNetCoreApp\obj\Debug\net5.0\MyNetCoreApp.AssemblyInfoInputs.cache
+D:\gitprojects\netcoreapp\MyNetCoreApp\obj\Debug\net5.0\MyNetCoreApp.AssemblyInfo.cs
+D:\gitprojects\netcoreapp\MyNetCoreApp\obj\Debug\net5.0\MyNetCoreApp.csproj.CoreCompileInputs.cache
