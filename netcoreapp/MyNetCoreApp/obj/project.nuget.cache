@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "9VW9kROcH5Hzz3qQv8x3+BNvVE/QsnxnUYrkenYZRuyN2Qz7SRYPw5fb3Pze5I3i6mymxd8hslt+3HzPLcTVpQ==",
+  "dgSpecHash": "lWEMd7riWhQlguYHRcKjRCPZ1I3J8823qeWufObZnQAmz31hk5kcKhG1Z5o3f+S5bQpQ7cAOyUCVozOA1CIccA==",
   "success": true,
   "projectFilePath": "D:\\gitprojects\\netcoreapp\\MyNetCoreApp\\MyNetCoreApp.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\JunHao\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "C:\\Users\\JunHao\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
+    "C:\\Users\\JunHao\\.nuget\\packages\\system.drawing.common\\4.7.0\\system.drawing.common.4.7.0.nupkg.sha512"
+  ],
   "logs": []
 }
