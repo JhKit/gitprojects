@@ -25,11 +25,7 @@ namespace NetCoreApp
             InitializeComponent();
         }
 
-        private void Loaded(object sender, System.Windows.RoutedEventArgs e)
-        {
-            Console.WriteLine("Test git  in  VS Code ");
-            Console.WriteLine("Hello Git User for JunHao");
-        }
+        
 
     }
 }
