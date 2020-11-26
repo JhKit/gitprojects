@@ -148,22 +148,25 @@
   },
   "packageFolders": {
     "C:\\Users\\JunHao\\.nuget\\packages\\": {},
+    "E:\\Mcrosoft Visual Studio\\Shared\\NuGetPackages": {},
     "E:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\gitprojects\\netcoreapp\\MyNetCoreApp\\MyNetCoreApp.csproj",
+      "projectUniqueName": "D:\\githubprojects\\gitprojects\\netcoreapp\\MyNetCoreApp\\MyNetCoreApp.csproj",
       "projectName": "MyNetCoreApp",
-      "projectPath": "D:\\gitprojects\\netcoreapp\\MyNetCoreApp\\MyNetCoreApp.csproj",
+      "projectPath": "D:\\githubprojects\\gitprojects\\netcoreapp\\MyNetCoreApp\\MyNetCoreApp.csproj",
       "packagesPath": "C:\\Users\\JunHao\\.nuget\\packages\\",
-      "outputPath": "D:\\gitprojects\\netcoreapp\\MyNetCoreApp\\obj\\",
+      "outputPath": "D:\\githubprojects\\gitprojects\\netcoreapp\\MyNetCoreApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
+        "E:\\Mcrosoft Visual Studio\\Shared\\NuGetPackages",
         "E:\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
         "C:\\Users\\JunHao\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
@@ -176,6 +179,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "projectReferences": {}
         }
       },
@@ -187,6 +191,7 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
         "dependencies": {
           "System.Drawing.Common": {
             "target": "Package",
@@ -208,7 +213,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }

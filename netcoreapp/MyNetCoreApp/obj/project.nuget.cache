@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lWEMd7riWhQlguYHRcKjRCPZ1I3J8823qeWufObZnQAmz31hk5kcKhG1Z5o3f+S5bQpQ7cAOyUCVozOA1CIccA==",
+  "dgSpecHash": "sqNS0+DV5Jc8gVmWe1rzt87lI0iNcOje/OHk+lh6msNqlg73n5QAVbgjbzbzEZIA56F4hlnnPVUeZlAtyNnelA==",
   "success": true,
-  "projectFilePath": "D:\\gitprojects\\netcoreapp\\MyNetCoreApp\\MyNetCoreApp.csproj",
+  "projectFilePath": "D:\\githubprojects\\gitprojects\\netcoreapp\\MyNetCoreApp\\MyNetCoreApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\JunHao\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\JunHao\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",

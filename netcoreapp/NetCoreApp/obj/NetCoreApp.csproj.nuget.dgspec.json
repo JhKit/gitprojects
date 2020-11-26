@@ -1,23 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "D:\\gitprojects\\netcoreapp\\NetCoreApp\\NetCoreApp.csproj": {}
+    "D:\\githubprojects\\gitprojects\\netcoreapp\\NetCoreApp\\NetCoreApp.csproj": {}
   },
   "projects": {
-    "D:\\gitprojects\\netcoreapp\\NetCoreApp\\NetCoreApp.csproj": {
+    "D:\\githubprojects\\gitprojects\\netcoreapp\\NetCoreApp\\NetCoreApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\gitprojects\\netcoreapp\\NetCoreApp\\NetCoreApp.csproj",
+        "projectUniqueName": "D:\\githubprojects\\gitprojects\\netcoreapp\\NetCoreApp\\NetCoreApp.csproj",
         "projectName": "NetCoreApp",
-        "projectPath": "D:\\gitprojects\\netcoreapp\\NetCoreApp\\NetCoreApp.csproj",
+        "projectPath": "D:\\githubprojects\\gitprojects\\netcoreapp\\NetCoreApp\\NetCoreApp.csproj",
         "packagesPath": "C:\\Users\\JunHao\\.nuget\\packages\\",
-        "outputPath": "D:\\gitprojects\\netcoreapp\\NetCoreApp\\obj\\",
+        "outputPath": "D:\\githubprojects\\gitprojects\\netcoreapp\\NetCoreApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
+          "E:\\Mcrosoft Visual Studio\\Shared\\NuGetPackages",
           "E:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
           "C:\\Users\\JunHao\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -30,6 +32,7 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -41,6 +44,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "imports": [
             "net461",
             "net462",
@@ -54,9 +58,12 @@
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }
