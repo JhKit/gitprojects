@@ -1,20 +1,20 @@
 ﻿NetCoreApp
-
+1.0.0.0
 
 winexe
 C#
 .cs
-D:\gitprojects\netcoreapp\NetCoreApp\obj\Debug\netcoreapp3.1\
+d:\githubprojects\gitprojects\netcoreapp\NetCoreApp\obj\Debug\netcoreapp3.1\
 NetCoreApp
 none
 false
 TRACE;DEBUG;NETCOREAPP;NETCOREAPP3_1;
-D:\gitprojects\netcoreapp\NetCoreApp\App.xaml
-11151548125
+d:\githubprojects\gitprojects\netcoreapp\NetCoreApp\App.xaml
+1219584333
 
-4-1681336773
-1921654412462
+5810616120
+192674553305
 MainWindow.xaml;
 
-False
+True
 
