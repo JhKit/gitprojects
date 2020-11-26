@@ -23,14 +23,8 @@ namespace NetCoreApp
         public MainWindow()
         {
             InitializeComponent();
-
-            OutPut();
         }
 
-        void OutPut()
-        {
-            
-        }
 
     }
 }
